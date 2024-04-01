@@ -41,8 +41,6 @@ BibTeX:
     quanzhang1997@gmail.com
 
 
-<img src='./test.png' alt='Adj' width=960/>
-	Figure 1. Original Z component data with its Radon spectrum.
+<img src='./HK_krig.png' alt='Adj' width=960/>
+	Figure 1. Western Canada Crustal Model.
 
-<img src='./test_i.png' alt='Adj' width=960/>
-	Figure 2. HRT denoised Z component data with its Radon spectrum.
